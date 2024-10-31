@@ -1,4 +1,4 @@
-package inorout;
+package kiemtrachuoi;
 
 import java.util.Scanner;
 
